@@ -1,1 +1,0 @@
-let teamAScore = 0
